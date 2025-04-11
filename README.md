@@ -4,6 +4,8 @@ Welcome to a complete data engineering and business analytics project built usin
 
 This project covers the full data pipeline lifecycle — from raw data ingestion to dimensional modeling, cleaning, and SQL-driven business insights — with the goal of delivering clear, actionable findings to support strategic decision-making across sales, operations, and customer success.
 
+To see the notebook and all the findings click on the "Underwear Wholesaler.ipynb" file in this repository and check the whole project out!
+
 ---
 
 ## 🎯 Objective
